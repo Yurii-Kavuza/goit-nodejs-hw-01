@@ -5,7 +5,7 @@ This is the first homework with NodeJS.
 The results of implemented commands are below.
 
 # Get and output whole list like a table (console.table)
-node index.js --action="list" /n
+node index.js --action="list" <br>
 link: https://ibb.co/WtsW2Pp
 
 # Get the contact by id
